@@ -24,7 +24,7 @@ export default function Footer() {
             style={{ color: neon, filter: `drop-shadow(0 0 4px rgba(${neonRgb},0.4))` }}
           />
           <span className="font-mono" style={{ color: `rgba(${neonRgb}, 0.7)` }}>
-            DataPortfolio
+            DataForge
           </span>
         </div>
         <p>&copy; {new Date().getFullYear()} {t.allRights}</p>

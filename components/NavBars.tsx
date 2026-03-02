@@ -35,7 +35,7 @@ export default function Navbar() {
       <div className="mx-auto max-w-6xl flex items-center justify-between px-6 py-4">
         <a href="#home" className="flex items-center gap-2 font-bold text-lg" style={{ color: neon }}>
           <BarChart3 className="w-6 h-6" style={{ filter: `drop-shadow(0 0 6px rgba(${neonRgb},0.5))` }} />
-          <span className="font-mono">DataPortfolio</span>
+          <span className="font-mono">DataForge</span>
         </a>
 
         <div className="hidden md:flex items-center gap-6">
