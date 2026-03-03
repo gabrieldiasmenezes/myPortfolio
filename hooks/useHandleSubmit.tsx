@@ -18,12 +18,6 @@ export default function useHandleSubmit() {
             form,
             process.env.NEXT_PUBLIC_PUBLIC_KEY!
         )
-        console.log("environmet variables", {
-            serviceId: process.env.NEXT_PUBLIC_SERVICE_ID,
-            templateId: process.env.NEXT_PUBLIC_TEMPLATE_ID,
-            publicKey: process.env.NEXT_PUBLIC_PUBLIC_KEY,
-        }
-        )
         setSuccess(true)
         form.reset()
         } catch (err) {

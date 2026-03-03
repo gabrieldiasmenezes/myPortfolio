@@ -28,6 +28,7 @@ export default function Footer() {
           </span>
         </div>
         <p>&copy; {new Date().getFullYear()} {t.allRights}</p>
+        <div> Ícones feitos por <a href="https://www.flaticon.com/br/autores/iconmarketpk" title="IconMarketPK"> IconMarketPK </a> from <a href="https://www.flaticon.com/br/" title="Flaticon">www.flaticon.com'</a></div>
       </div>
     </footer>
   )
