@@ -13,10 +13,10 @@ export default function useHandleSubmit() {
 
         try {
         await emailjs.sendForm(
-            process.env.YOUR_SERVICE_ID!,
-            process.env.YOUR_TEMPLATE_ID!,
+            process.env.NEXT_PUBLIC_SERVICE_ID!,
+            process.env.NEXT_PUBLIC_TEMPLATE_ID!,
             form,
-            process.env.YOUR_PUBLIC_KEY!
+            process.env.NEXT_PUBLIC_PUBLIC_KEY!
         )
         setSuccess(true)
         form.reset()
