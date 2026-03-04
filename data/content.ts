@@ -53,6 +53,7 @@ const translations = {
 
     proj4Name: "Sovrano API — Sistema de Reservas com Gestão de Dados",
     proj4Desc: "API desenvolvida em Spring Boot para gerenciamento de reservas em restaurante, com autenticação segura e controle de operações. O sistema permite visualizar reservas, analisar fluxo diário e organizar informações operacionais, aplicando conceitos de estruturação, consulta e interpretação de dados.",
+    repositoryButtons:"Ver todos os repositórios",
 
     // Skills
     skillsTitle: "Skills",
@@ -134,6 +135,7 @@ const translations = {
 
     proj4Name: "Sovrano API — Reservation System with Data Management",
     proj4Desc: "Spring Boot API for managing restaurant reservations with secure authentication and operational control. The system allows staff to monitor daily reservations, organize booking data, and analyze operational flow, applying concepts of data structuring, querying, and interpretation.",
+    repositoryButtons:"View all repositories",
 
     // Skills
     skillsTitle: "Skills",
