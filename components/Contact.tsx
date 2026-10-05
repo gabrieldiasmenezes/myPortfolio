@@ -61,7 +61,7 @@ export default function Contact() {
         </form>
 
         <div className="flex items-center justify-center gap-6 mt-10">
-          <a href="https://www.linkedin.com/in/gabriel-dias-5851382b5" className="p-3 rounded-lg border">
+          <a href="https://www.linkedin.com/in/gabriel-dias-menezes12" className="p-3 rounded-lg border">
             <Linkedin className="w-5 h-5" />
           </a>
           <a href="https://github.com/gabrieldiasmenezes" className="p-3 rounded-lg border">
