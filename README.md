@@ -91,7 +91,7 @@ O portfólio possui formulário funcional integrado ao EmailJS.
 Você também pode me encontrar em:
 
 * 💼 LinkedIn:
-  https://www.linkedin.com/in/gabriel-dias-5851382b5
+  https://www.linkedin.com/in/gabriel-dias-menezes12
 
 * 💻 GitHub:
   https://github.com/gabrieldiasmenezes
